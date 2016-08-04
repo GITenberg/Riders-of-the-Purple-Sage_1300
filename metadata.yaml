@@ -1,0 +1,58 @@
+_repo: Riders-of-the-Purple-Sage_1300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: "Riders of the Purple Sage is a Western novel by Zane Grey, first published\
+  \ by Harper & Brothers in 1912. Considered by many critics to have played a significant\
+  \ role in shaping the formula of the popular Western genre, the novel has been called\
+  \ \"the most popular western novel of all time.\"\nRiders of the Purple Sage tells\
+  \ the story of Jane Withersteen and her battle to overcome persecution by members\
+  \ of her polygamous Mormon fundamentalist church. A leader of the church, Elder\
+  \ Tull, wants to marry her. Withersteen gets help from a number of friends, including\
+  \ Bern Venters and Lassiter, a famous gunman and killer of Mormons. Throughout most\
+  \ of the novel she struggles with her \"blindness\" to the evil nature of her church\
+  \ and its leaders, and tries to keep Venters and Lassiter from killing the adversaries\
+  \ who are slowly ruining her. When she adopts a child, Fay, she abandons her beliefs\
+  \ and discovers her true love. A second plot strand tells of Venters and his escape\
+  \ to the wilderness with a girl named Bess, \"the rustler's girl,\" whom he has\
+  \ accidentally shot. Venters falls in love with the girl while caring for her. Together\
+  \ they escape to the East, while Lassiter, Fay, and Jane, pursued by both Mormons\
+  \ and rustlers, escape into a paradise-like valley and topple a giant rock to forever\
+  \ close off the only way in or out.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Western
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1300'
+  wikidata: Q3398694
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormon women -- Fiction'
+- !lcsh 'Polygamy -- Fiction'
+- !lcsh 'Women ranchers -- Fiction'
+- !lcsh 'Utah -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: Riders of the Purple Sage
+url: http://www.gutenberg.org/ebooks/1300
+wikipedia:
+- https://fi.wikipedia.org/wiki/Purppurarinteiden_ratsastajat
+- https://sh.wikipedia.org/wiki/Riders_of_the_Purple_Sage
+- https://pt.wikipedia.org/wiki/Riders_of_the_Purple_Sage
+- https://en.wikisource.org/wiki/Riders_of_the_Purple_Sage
+- https://cy.wikipedia.org/wiki/Riders_of_the_Purple_Sage
+- https://en.wikipedia.org/wiki/Riders_of_the_Purple_Sage
+- https://commons.wikimedia.org/wiki/Category:Riders_of_the_Purple_Sage
