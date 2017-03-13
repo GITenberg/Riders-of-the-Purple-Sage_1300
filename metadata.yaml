@@ -1,5 +1,8 @@
 _repo: Riders-of-the-Purple-Sage_1300
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -28,6 +31,8 @@ description: "Riders of the Purple Sage is a Western novel by Zane Grey, first p
   \ they escape to the East, while Lassiter, Fay, and Jane, pursued by both Mormons\
   \ and rustlers, escape into a paradise-like valley and topple a giant rock to forever\
   \ close off the only way in or out.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1300#Riders-of-the-Purple-Sage
 gutenberg_bookshelf: Western
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
